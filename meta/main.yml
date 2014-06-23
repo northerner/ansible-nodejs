@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: 'Daniel King'
-  description: 
-  company: 'Llama Digital'
+  author: Daniel King
+  description: Install nodejs
+  company: Llama Digital
   # Some suggested licenses:
   # - BSD (default)
   # - MIT
